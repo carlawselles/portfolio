@@ -1,0 +1,11 @@
+@font-face{
+    font-family: 'RightSerif';
+    src:url('../fonts/PPRightSerif-WideBlack.ttf'),
+    url('../fonts/PPRightSerif-WideBlack.woff'),
+    url('../fonts/PPRightSerif-WideBlack.woff2');
+    font-family: 'RightGothic';
+    src:url('../fonts/PPRightGothic-SpatialBlack.ttf'),
+    url('../fonts/PPRightGothic-SpatialBlack.woff'),
+    url('../fonts/PPRightGothic-SpatialBlack.woff2');
+
+}
